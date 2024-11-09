@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/ip"
-  to = "https://ip.rss.ink"
-  status = 302
-  force = true
