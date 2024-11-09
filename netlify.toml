@@ -3,6 +3,7 @@
   to = "https://ip.rss.ink"
   status = 200
   force = true
+  conditions = {Country = "US"}
 
 [[redirects]]
   from = "/:path*"
