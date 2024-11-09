@@ -10,4 +10,3 @@
   to = "https://chatgpt.com/:path*"
   status = 200
   force = true
-  rewrite = true
