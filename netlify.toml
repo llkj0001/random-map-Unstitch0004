@@ -1,4 +1,10 @@
 [[redirects]]
+  from = "/ip"
+  to = "https://ip.rss.ink"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "/:path*"
   to = "https://chatgpt.com/:path*"
   status = 200
