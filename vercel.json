@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/:path*", 
-        "destination": "https://ip.rss.ink/:path*"
+        "destination": "https://chat.freegpts.org/:path*"
       }
     ]
 }
