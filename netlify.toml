@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/*"
-  to = "https://chatgpt.com/:splat"
+  from = "/:path*"
+  to = "https://chatgpt.com/:path*"
   status = 200
   force = true
