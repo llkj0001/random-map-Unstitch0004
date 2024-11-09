@@ -3,9 +3,11 @@
   to = "https://ip.rss.ink"
   status = 200
   force = true
+  rewrite = true
 
 [[redirects]]
   from = "/:path*"
   to = "https://chatgpt.com/:path*"
   status = 200
   force = true
+  rewrite = true
