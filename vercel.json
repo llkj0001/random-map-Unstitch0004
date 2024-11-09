@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/:path*", 
-        "destination": "https://chat.freegpts.org/:path*"
+        "destination": "https://chatgpt.com/:path*"
       }
     ]
 }
