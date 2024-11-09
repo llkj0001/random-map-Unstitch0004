@@ -9,4 +9,3 @@
   to = "https://ip.rss.ink"
   status = 200
   force = true
-  rewrite = true
