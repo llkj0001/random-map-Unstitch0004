@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/:path*", 
-        "destination": "https://api.stripe.com/:path*"
+        "destination": "https://www.genspark.ai/:path*"
       }
     ]
 }
