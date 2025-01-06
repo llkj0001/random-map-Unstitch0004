@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/:path*", 
-        "destination": "https://www.genspark.ai/:path*"
+        "destination": "https://www.tline.website/:path*"
       }
     ]
 }
