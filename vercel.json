@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/:path*", 
-        "destination": "https://www.tline.website/:path*"
+        "destination": "https://free-proxy.cz/:path*"
       }
     ]
 }
