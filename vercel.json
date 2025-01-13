@@ -1,12 +1,12 @@
 {
     "rewrites": [
-      {
-        "source": "/:path*", 
-        "destination": "http://free-proxy.cz/:path*"
-      },
-      {
-        "source": "/free-proxy:path*", 
-        "destination": "http://free-proxy.cz/:path*"
-      }
+        {
+            "source": "/:path*",
+            "destination": "http://free-proxy.cz/:path*"
+        },
+        {
+            "source": "/free-proxy/:path*",
+            "destination": "http://free-proxy.cz/:path*"
+        }
     ]
 }
