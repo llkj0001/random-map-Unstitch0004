@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/:path*", 
-        "destination": "https://free-proxy.cz/:path*"
+        "destination": "http://free-proxy.cz/:path*"
       }
     ]
 }
