@@ -6,7 +6,7 @@
         },
         {
             "source": "/free-proxy/:path*",
-            "destination": "http://free-proxy.cz/:path*"
+            "destination": "http://free-proxy.cz/free-proxy/:path*"
         }
     ]
 }
