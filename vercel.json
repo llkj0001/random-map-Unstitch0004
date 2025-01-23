@@ -2,11 +2,7 @@
     "rewrites": [
         {
             "source": "/:path*",
-            "destination": "http://free-proxy.cz/:path*"
-        },
-        {
-            "source": "/free-proxy/:path*",
-            "destination": "http://free-proxy.cz/free-proxy/:path*"
+            "destination": "https://wallcats.net/:path*"
         }
     ]
 }
