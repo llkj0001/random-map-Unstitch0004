@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/:path*",
-            "destination": "https://wallcats.net/:path*"
+            "destination": "https://duckduckgo.com/:path*"
         }
     ]
 }
